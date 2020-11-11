@@ -1,2 +1,2 @@
 # radio-website
-Simple Website with live music streaming, written on Node.js (пет проект :) )
+Simple Website with live music streaming, written on Node.js
